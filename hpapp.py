@@ -363,7 +363,7 @@ st.markdown("""
 ">
     <div>
         <p style="color:#f0eade;font-weight:600;margin:0;font-size:14px;">
-            👨‍💻 Akhilesh Sonkar , Anirudh Singh, Kushal Kumar Pandey 
+            👨‍💻 Akhilesh Sonkar 
         </p>
         <p style="color:#8a8fa8;margin:2px 0 0;font-size:12px;">
             B.Tech CSE · AKTU
